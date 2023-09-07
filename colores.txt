@@ -1,0 +1,27 @@
+color carbón:
+H: 184°
+S: 0%
+B: 13%
+
+RGB:
+R:35
+G:35
+B:35
+
+hexadecimal:
+#353535
+
+
+
+color azul:
+H:184°
+S:100%
+B:94%
+
+RGB:
+R:0
+G:216
+B:240
+
+hexadecimal
+#00D8F0
