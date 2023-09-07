@@ -1,3 +1,6 @@
+
+Colores del Logo
+
 color carbón:
 H: 184°
 S: 0%
